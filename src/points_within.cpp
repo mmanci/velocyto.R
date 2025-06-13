@@ -1,12 +1,6 @@
 #include <R.h>
 #include <Rinternals.h>
-
-// Undefine the 'length' macro to prevent conflicts
-#undef length
-
 #include <set>
-#include <vector>
-#include <functional>
 
 using namespace std;
 
